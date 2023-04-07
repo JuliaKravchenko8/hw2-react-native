@@ -19,8 +19,8 @@ export default function App() {
                     source={require('./assets/images/bg.jpg')}
                 >
                     <RegistrationScreen />
-
                     {/* <LoginScreen /> */}
+
                     <StatusBar style="auto" />
                 </ImageBackground>
             </TouchableWithoutFeedback>
